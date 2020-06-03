@@ -1,4 +1,4 @@
-_____vi__________
+__vi___
 
 vi it is a default text editor on UNIX
 
